@@ -27,6 +27,13 @@ questions = {
         "question": "Are you a hipster? ",
         "yes" : 10,
         "no" : 0
+    },
+
+    "q6" : {
+        "question": "Are you afraid of living the same life? ",
+        "yes" : 10,
+        "no" : 0
     }
+
 
 }
