@@ -5,7 +5,7 @@ from emoji import emojize
 
 print("\033[2;33;40m====================== Psychological Quiz ======================")
 import emoji
-print(emoji.emojize('========================    :evergreen_tree: :deciduous_tree: :four_leaf_clover: :seedling: :herb: :palm_tree:    ========================='))
+print(emoji.emojize('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    :evergreen_tree: :deciduous_tree: :four_leaf_clover: :seedling: :herb: :palm_tree:    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'))
 
 print(Back.BLUE + Fore.WHITE + '=====================================Start========================================')
 
@@ -45,10 +45,9 @@ print(answer6)
 vars.quizTotal += answer6
 print("=========================Fantastic!=========================")
 
-print("total so far:"+ str(vars.quizTotal)+"\n")
-
-
-
-
-# after answer all the questions, figure out who your character is 
 quizTally.total(vars.quizTotal)  
+
+print("total so far:"+ str(vars.quizTotal)+"\n")
+print("============================================== Have a nice day! =======================================================")
+import emoji
+print(emoji.emojize('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    :sun_with_face:   :crescent_moon:   :sun_with_face:   :crescent_moon:   :sun_with_face:   :crescent_moon:    xxxxxxxxxxxxxxxxxxxxxxxxxxxx'))

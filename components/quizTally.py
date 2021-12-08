@@ -43,11 +43,9 @@ def total(value):
         print(emoji.emojize('Your inner character is  :leopard:'))
         print(Fore.RED  + 'You were born to be a leader. You are very clear about your position, always ahead of others, have a strong sense of purpose to the dream, you are smart, smart, subtle. You easily attract attention in a crowd and have a strong personality. ')
         
-        print(Back.BLUE + Fore.WHITE +'========================================================Congratulations!===============================================================')
+        print(Back.BLUE + Fore.WHITE +'=============================================Congratulations!===============================================================')
         
         import emoji
-        print(emoji.emojize('=====================================================    :maple_leaf:  :maple_leaf:   :maple_leaf:    ===================================================='))
+        print(emoji.emojize('===========================================    :maple_leaf:  :maple_leaf:   :maple_leaf:    ===================================================='))
 
-       
-        # run the pillow function to show an image
-        # pillow.show(vars.images[0])
+    
