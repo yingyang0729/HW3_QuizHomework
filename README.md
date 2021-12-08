@@ -4,7 +4,8 @@ TODO: The Pschological Quiz is developed by Ying Yang for 1054 homework 3.
 
 ## Installation
 
-TODO: The quiz game is designed by Python 3. During the develop processing, the developer installed the Colorama and Emoji python package to make the quiz game pretty.
+TODO: The quiz game is designed by [Python 3](https://www.python.org/). During the develop processing, the developer installed the [Colorama](https://pypi.org/project/colorama/) and [Emoji](https://pypi.org/project/emoji/) python package to make the quiz game pretty.
+
 ## Usage
 
 TODO: The quiz game is for homework 3. Moreover, people can use the quiz to test themselves which animal they are. The quiz result will show their personality and characteristics, which is so interested.
