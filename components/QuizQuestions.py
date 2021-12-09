@@ -33,7 +33,17 @@ questions = {
         "question": "Are you afraid of living the same life? ",
         "yes" : 10,
         "no" : 0
+    },
+
+    "q7" : {
+            "question": "Do you like travel? ",
+            "yes" : 10,
+            "no" : 0
+    },
+
+    "q8" : {
+            "question": "Do you like move to a new place? ",
+            "yes" : 10,
+            "no" : 0
     }
-
-
 }

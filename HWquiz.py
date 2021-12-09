@@ -45,9 +45,21 @@ print(answer6)
 vars.quizTotal += answer6
 print("=========================Fantastic!=========================")
 
+answer7 = questions["q7"][input(questions["q7"]["question"])]
+print(answer7)
+
+vars.quizTotal += answer7
+print("=========================Fabulous!=========================")
+
+answer8= questions["q8"][input(questions["q8"]["question"])]
+print(answer8)
+
+vars.quizTotal += answer8
+print("=========================Brilliant!=========================")
+
 quizTally.total(vars.quizTotal)  
 
-print("total so far:"+ str(vars.quizTotal)+"\n")
+print("Total Score:"+ str(vars.quizTotal)+"\n")
 print("============================================== Have a nice day! =======================================================")
 import emoji
 print(emoji.emojize('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    :sun_with_face:   :crescent_moon:   :sun_with_face:   :crescent_moon:   :sun_with_face:   :crescent_moon:    xxxxxxxxxxxxxxxxxxxxxxxxxxxx'))
