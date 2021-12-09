@@ -1,6 +1,6 @@
-# HW3-Quiz-Psychological Quiz
+# HW3-Quiz-Marvel Characters & Animal Personality Psychological Quiz
 
-TODO: The Psychological Quiz is developed by Ying Yang for 1054 homework 3. 
+TODO: The Marvel Characters & Animal Personality Psychological Quiz is developed by Ying Yang for 1054 homework 3. 
 
 ## Installation
 
