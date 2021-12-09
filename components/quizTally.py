@@ -7,7 +7,7 @@ def total(value):
     if value <= 20:
         vars.character = vars.characters[0]
 
-        print( "You are a "  + vars.character)
+        print( "You are "  + vars.character)
 
         import emoji
         print(emoji.emojize('Your inner character is :rabbit:'))
@@ -23,7 +23,7 @@ def total(value):
     if 20< value <= 40:
         vars.character = vars.characters[1]
 
-        print("You are a "  +  vars.character)
+        print("You are "  +  vars.character)
 
         import emoji
         print(emoji.emojize('Your inner character is  :cat:'))
@@ -40,7 +40,7 @@ def total(value):
     if 40< value <= 60:
         vars.character = vars.characters[2]
 
-        print("You are a "  +  vars.character)
+        print("You are "  +  vars.character)
 
         import emoji
         print(emoji.emojize('Your inner character is  :goat:'))
@@ -54,7 +54,7 @@ def total(value):
     if 60< value <= 80:
         vars.character = vars.characters[3]
 
-        print("You are a "  +  vars.character)
+        print("You are "  +  vars.character)
 
         import emoji
         print(emoji.emojize('Your inner character is  :leopard:'))

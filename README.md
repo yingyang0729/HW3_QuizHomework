@@ -8,7 +8,7 @@ TODO: The quiz game is designed by [Python 3](https://www.python.org/). During t
 
 ## Usage
 
-TODO: The quiz game is for homework 3. Moreover, people can use the quiz to test themselves which animal they are. The quiz result will show their personality and characteristics, which is so interested.
+TODO: The quiz game is for homework 3. At first, people can use the quiz to test themselves which Marvel characters they are. Moreover,the quiz result also show which animal stands for their inner personality. Then the quiz result combines the Marvel characters and animal personalities to explain the details of the tester's characteristics, which is so helpful to understand themselves.
 
 ## Contributing
 

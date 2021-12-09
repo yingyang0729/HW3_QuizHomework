@@ -2,5 +2,5 @@ from PIL import Image
 
 quizTotal = 0
 
-characters = ["rabbit", "cat","goat", "leopard"]
-images = ["rabbit.jpg","chicks.jpg","goat.jpg","leo.jpg"]
+characters = ["White Queen", "Laura Kinney","Silver Surfer", "Cyclops"]
+images = ["white_queen.jpg","Laura_kinney.jpg","Silver_Surfer.jpg","Cyclops.jpg"]
